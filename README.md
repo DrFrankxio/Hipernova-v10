@@ -1,6 +1,6 @@
 Vista previa:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/febff556-a22b-4a92-ba5a-ff1d6154e819)
 
 Uso:
 
